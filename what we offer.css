@@ -1,0 +1,66 @@
+h1{
+    text-align: center;
+    color:black;
+    font-family: 'Montaga',sans-serif;
+    font-size: 30px;
+    
+}
+
+h2{
+   
+    color:black;
+    font-family: 'Montaga',sans-serif;
+    font-size: 30px;
+}
+
+body{
+
+    background-image:url('blue and white page.png');
+    background-repeat: no-repeat ;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    margin: 0;
+    color: white;
+    text-align: center;
+    font-family: 'Montaga',sans-serif;
+
+}
+
+.red{
+    text-align: left;
+}
+
+
+.diving{
+    width: 300px;
+    height: 200px;
+    padding-left: 30px;
+}
+
+.box{
+    width: 300px;
+    height: 200px;
+    padding-left: 30px;
+}
+
+.nhi{
+    width: 300px;
+    height: 200px;
+    padding-left: 30px;
+}
+
+.ion{
+    width: 300px;
+    height: 200px;
+    padding-left: 20px;
+}
+
+.ul{
+    padding-top: 350px;
+}
+
+.thrill{
+    color: white;
+    font-size: 30px;
+}
+
